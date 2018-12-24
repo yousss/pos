@@ -1,0 +1,176 @@
+[2018-12-24 08:48:24] local.ERROR: Class 'Webkul\Theme\Providers\ThemeServiceProvider' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'Webkul\\Theme\\Providers\\ThemeServiceProvider' not found at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:208)
+[stacktrace]
+#0 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(144): Illuminate\\Foundation\\ProviderRepository->createProvider('Webkul\\\\Theme\\\\Pr...')
+#1 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(548): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(206): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(297): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(120): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\wamp64\\www\\pos\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
+[2018-12-24 08:56:38] local.ERROR: Class 'Webkul\Theme\Providers\ThemeServiceProvider' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'Webkul\\Theme\\Providers\\ThemeServiceProvider' not found at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:208)
+[stacktrace]
+#0 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(144): Illuminate\\Foundation\\ProviderRepository->createProvider('Webkul\\\\Theme\\\\Pr...')
+#1 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(548): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(206): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(297): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(120): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\wamp64\\www\\pos\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
+[2018-12-24 09:21:54] local.ERROR: Class 'Webkul\User\Providers\UserServiceProvider' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'Webkul\\User\\Providers\\UserServiceProvider' not found at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:208)
+[stacktrace]
+#0 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(144): Illuminate\\Foundation\\ProviderRepository->createProvider('Webkul\\\\User\\\\Pro...')
+#1 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(548): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(206): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(297): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(120): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\wamp64\\www\\pos\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
+[2018-12-24 10:20:14] local.ERROR: Class 'Webkul\Ui\Providers\UiServiceProvider' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'Webkul\\Ui\\Providers\\UiServiceProvider' not found at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:208)
+[stacktrace]
+#0 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(144): Illuminate\\Foundation\\ProviderRepository->createProvider('Webkul\\\\Ui\\\\Provi...')
+#1 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(548): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(206): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(297): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(120): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\wamp64\\www\\pos\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
+[2018-12-24 10:20:19] local.ERROR: Class 'Webkul\Ui\Providers\UiServiceProvider' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'Webkul\\Ui\\Providers\\UiServiceProvider' not found at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:208)
+[stacktrace]
+#0 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(144): Illuminate\\Foundation\\ProviderRepository->createProvider('Webkul\\\\Ui\\\\Provi...')
+#1 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(548): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(206): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(297): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(120): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\wamp64\\www\\pos\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
+[2018-12-24 12:21:30] local.ERROR: Class 'Webkul\Shop\Providers\ShopServiceProvider' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'Webkul\\Shop\\Providers\\ShopServiceProvider' not found at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:208)
+[stacktrace]
+#0 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(144): Illuminate\\Foundation\\ProviderRepository->createProvider('Webkul\\\\Shop\\\\Pro...')
+#1 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(548): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(206): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(297): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(120): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\wamp64\\www\\pos\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
+[2018-12-24 12:26:00] local.ERROR: Class 'Webkul\Shop\Providers\ShopServiceProvider' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Class 'Webkul\\Shop\\Providers\\ShopServiceProvider' not found at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:208)
+[stacktrace]
+#0 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(144): Illuminate\\Foundation\\ProviderRepository->createProvider('Webkul\\\\Shop\\\\Pro...')
+#1 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(548): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(206): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(297): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(120): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\wamp64\\www\\pos\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
+[2018-12-24 12:28:52] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\wamp64\www\pos\routes/api.php' (include_path='.;C:\php\pear') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\wamp64\\www\\pos\outes/api.php' (include_path='.;C:\\php\\pear') at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:400)
+[stacktrace]
+#0 {main}
+"} 
+[2018-12-24 13:03:17] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\wamp64\www\pos\routes/api.php' (include_path='.;C:\php\pear') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\wamp64\\www\\pos\outes/api.php' (include_path='.;C:\\php\\pear') at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:400)
+[stacktrace]
+#0 {main}
+"} 
+[2018-12-24 13:12:33] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\wamp64\www\pos\routes/api.php' (include_path='.;C:\php\pear') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\wamp64\\www\\pos\outes/api.php' (include_path='.;C:\\php\\pear') at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:400)
+[stacktrace]
+#0 {main}
+"} 
+[2018-12-24 13:13:05] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\wamp64\www\pos\routes/api.php' (include_path='.;C:\php\pear') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\wamp64\\www\\pos\outes/api.php' (include_path='.;C:\\php\\pear') at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:400)
+[stacktrace]
+#0 {main}
+"} 
+[2018-12-24 13:20:58] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\wamp64\www\pos\routes/api.php' (include_path='.;C:\php\pear') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\wamp64\\www\\pos\outes/api.php' (include_path='.;C:\\php\\pear') at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:400)
+[stacktrace]
+#0 {main}
+"} 
+[2018-12-24 13:28:09] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\wamp64\www\pos\routes/api.php' (include_path='.;C:\php\pear') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\wamp64\\www\\pos\outes/api.php' (include_path='.;C:\\php\\pear') at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:400)
+[stacktrace]
+#0 {main}
+"} 
+[2018-12-24 13:38:35] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\wamp64\www\pos\routes/api.php' (include_path='.;C:\php\pear') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\wamp64\\www\\pos\outes/api.php' (include_path='.;C:\\php\\pear') at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:400)
+[stacktrace]
+#0 {main}
+"} 
+[2018-12-24 13:39:04] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\wamp64\www\pos\routes/api.php' (include_path='.;C:\php\pear') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\wamp64\\www\\pos\outes/api.php' (include_path='.;C:\\php\\pear') at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:400)
+[stacktrace]
+#0 {main}
+"} 
+[2018-12-24 13:40:25] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\wamp64\www\pos\routes/api.php' (include_path='.;C:\php\pear') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\wamp64\\www\\pos\outes/api.php' (include_path='.;C:\\php\\pear') at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:400)
+[stacktrace]
+#0 {main}
+"} 
+[2018-12-24 13:59:51] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\wamp64\www\pos\routes/api.php' (include_path='.;C:\php\pear') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\wamp64\\www\\pos\outes/api.php' (include_path='.;C:\\php\\pear') at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:400)
+[stacktrace]
+#0 {main}
+"} 
+[2018-12-24 14:10:54] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\wamp64\www\pos\routes/api.php' (include_path='.;C:\php\pear') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\wamp64\\www\\pos\outes/api.php' (include_path='.;C:\\php\\pear') at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:400)
+[stacktrace]
+#0 {main}
+"} 
+[2018-12-24 14:12:31] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\wamp64\www\pos\routes/web.php' (include_path='.;C:\php\pear') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\wamp64\\www\\pos\outes/web.php' (include_path='.;C:\\php\\pear') at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:400)
+[stacktrace]
+#0 {main}
+"} 
+[2018-12-24 14:13:02] local.ERROR: include(C:\wamp64\www\pos\packages\Webkul\User\src\Providers/../Http/helpers.php): failed to open stream: No such file or directory {"exception":"[object] (ErrorException(code: 0): include(C:\\wamp64\\www\\pos\\packages\\Webkul\\User\\src\\Providers/../Http/helpers.php): failed to open stream: No such file or directory at C:\\wamp64\\www\\pos\\packages\\Webkul\\User\\src\\Providers\\UserServiceProvider.php:18)
+[stacktrace]
+#0 C:\\wamp64\\www\\pos\\packages\\Webkul\\User\\src\\Providers\\UserServiceProvider.php(18): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'include(C:\\\\wamp...', 'C:\\\\wamp64\\\\www\\\\p...', 18, Array)
+#1 C:\\wamp64\\www\\pos\\packages\\Webkul\\User\\src\\Providers\\UserServiceProvider.php(18): include()
+#2 [internal function]: Webkul\\User\\Providers\\UserServiceProvider->boot(Object(Illuminate\\Routing\\Router))
+#3 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(29): call_user_func_array(Array, Array)
+#4 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#5 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#6 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(564): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#7 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(794): Illuminate\\Container\\Container->call(Array)
+#8 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(777): Illuminate\\Foundation\\Application->bootProvider(Object(Webkul\\User\\Providers\\UserServiceProvider))
+#9 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(Webkul\\User\\Providers\\UserServiceProvider), 35)
+#10 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(778): array_walk(Array, Object(Closure))
+#11 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#12 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(206): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#13 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(297): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#14 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(120): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#15 C:\\wamp64\\www\\pos\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#16 {main}
+"} 
+[2018-12-24 14:57:03] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\wamp64\www\pos\routes/api.php' (include_path='.;C:\php\pear') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\wamp64\\www\\pos\outes/api.php' (include_path='.;C:\\php\\pear') at C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:400)
+[stacktrace]
+#0 {main}
+"} 
+[2018-12-24 14:58:45] local.ERROR: include(C:\wamp64\www\pos\packages\Webkul\User\src\Providers/../Http/helpers.php): failed to open stream: No such file or directory {"exception":"[object] (ErrorException(code: 0): include(C:\\wamp64\\www\\pos\\packages\\Webkul\\User\\src\\Providers/../Http/helpers.php): failed to open stream: No such file or directory at C:\\wamp64\\www\\pos\\packages\\Webkul\\User\\src\\Providers\\UserServiceProvider.php:18)
+[stacktrace]
+#0 C:\\wamp64\\www\\pos\\packages\\Webkul\\User\\src\\Providers\\UserServiceProvider.php(18): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'include(C:\\\\wamp...', 'C:\\\\wamp64\\\\www\\\\p...', 18, Array)
+#1 C:\\wamp64\\www\\pos\\packages\\Webkul\\User\\src\\Providers\\UserServiceProvider.php(18): include()
+#2 [internal function]: Webkul\\User\\Providers\\UserServiceProvider->boot(Object(Illuminate\\Routing\\Router))
+#3 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(29): call_user_func_array(Array, Array)
+#4 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#5 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#6 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(564): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#7 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(794): Illuminate\\Container\\Container->call(Array)
+#8 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(777): Illuminate\\Foundation\\Application->bootProvider(Object(Webkul\\User\\Providers\\UserServiceProvider))
+#9 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(Webkul\\User\\Providers\\UserServiceProvider), 35)
+#10 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(778): array_walk(Array, Object(Closure))
+#11 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#12 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(206): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#13 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(297): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#14 C:\\wamp64\\www\\pos\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(120): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#15 C:\\wamp64\\www\\pos\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#16 {main}
+"} 
