@@ -1,5 +1,6 @@
 <template>
 <transition name="slide">
+    
     <div class="slider-content" v-if="images.length>0">
 
         <ul class="slider-images">

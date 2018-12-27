@@ -7,7 +7,7 @@ use Webkul\Product\Repositories\ProductRepository as Product;
  * Featured Products page
  *
  * @author    Jitendra Singh <jitendra@webkul.com>
- * @copyright 2018 Webkul Software Pvt Ltd (http://www.webkul.com)
+ * @copyright 2018
  */
 class FeaturedProductListComposer
 {

@@ -82,7 +82,7 @@
 
                     <div class="footer">
                         <p>
-                            © Copyright 2018 Webkul Software, All rights reserved.
+                            © Copyright 2018, All rights reserved.
                         </p>
                     </div>
 

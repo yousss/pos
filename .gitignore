@@ -18,4 +18,5 @@ yarn-error.log
 /ignorables/*
 composer.lock
 package-lock.json
-.laravel.log
+laravel.log
+storage/framework/*

@@ -1,8 +1,9 @@
 const { mix } = require("laravel-mix");
 require("laravel-mix-merge-manifest");
 
-var publicPath = 'publishable/assets';
+ var publicPath = 'publishable/assets';
 // var publicPath = "../../../public/vendor/webkul/ui/assets";
+//var publicPath = "../../../public/themes/default/assets";
 
 mix.setPublicPath(publicPath).mergeManifest();
 mix.disableNotifications();
