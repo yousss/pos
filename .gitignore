@@ -19,4 +19,3 @@ yarn-error.log
 composer.lock
 package-lock.json
 laravel.log
-storage/framework/*
